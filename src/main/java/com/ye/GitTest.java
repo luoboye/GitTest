@@ -12,5 +12,8 @@ public class GitTest {
         System.out.println("hot-fix");
 
 
+        System.out.println("我成功了");
+
+
     }
 }
