@@ -13,6 +13,12 @@ public class GitTest {
 
 
         System.out.println("我成功了");
+        
+        System.out.println("我成功pull了");
+        
+        
+        
+        
 
 
     }
