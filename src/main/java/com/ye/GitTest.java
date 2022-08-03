@@ -7,6 +7,8 @@ public class GitTest {
         System.out.println("hello,git 2.0");
 
         System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
 
 
     }
